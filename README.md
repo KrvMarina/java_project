@@ -11,6 +11,7 @@ Additionally, I created an Airport class with appropriate attributes, where one 
 ------------------------------
 
 **Program Output:**
+
 ![image](https://github.com/KrvMarina/java_project/assets/142495792/f463849b-9578-4c23-93b7-2501b861a88f)
 
 ![image](https://github.com/KrvMarina/java_project/assets/142495792/eb285896-c479-4881-b9fb-4e1953a74b45)
